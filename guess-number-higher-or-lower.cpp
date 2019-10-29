@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     Solution s;
-    cout<<s.getSum(1,2);
+    cout<<s.guessNumber(10);
     return 0;
 }
 
